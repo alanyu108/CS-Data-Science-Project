@@ -1,3 +1,5 @@
 *.pdf
 settings.json
 *.csv
+.ipynb_checkpoints/
+*.html
