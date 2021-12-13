@@ -1,7 +1,5 @@
-*.pdf
 settings.json
-nyc_individual_covid_data.csv
 .ipynb_checkpoints/
-*.html
 abstract.txt
-test.py
+alan_yu_project.py
+nyc_individual_covid_data.csv
